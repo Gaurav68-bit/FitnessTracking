@@ -9,7 +9,7 @@ A modern fitness dashboard built with **React**, featuring:
 
 ---
 
-## 📌 **Features**
+## **Features**
 
 | Feature              | Description                                               |
 | ---------------------| --------------------------------------------------------- |
@@ -22,7 +22,7 @@ A modern fitness dashboard built with **React**, featuring:
 
 ---
 
-## 🚀 **Getting Started**
+## **Getting Started**
 
 ### ✅ **1. Clone the repo**
 ```bash
@@ -33,14 +33,13 @@ cd fitness-tracking-app
 ```bash
 npm install
 ```
-### ✅ **3.  Add your Google Maps API Key**
-  - Step 1. Create a .env file in the project root:
-           - REACT_APP_GOOGLE_MAPS_API_KEY=YOUR_GOOGLE_MAPS_API_KEY_HERE
-  - Step 2. Make sure your key has Maps JavaScript API enabled and billing set up in Google Cloud 
-           (you can create your api here : https://console.cloud.google.com/) 
-### ✅ 4. Start the app
+### ✅ 3. Start the app
         npm start
 ## Screenshot of the Project:- 
 <img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/0943aa2f-37bf-4136-87b0-07b471b88c7b" />
 <img width="1920" height="1200" alt="Screenshot (93)" src="https://github.com/user-attachments/assets/f4309ff6-a540-46a1-87e0-9a6c261a9947" />
+
+### ✅ 4. Deployement Link
+    https://fitness-tracking-mauve.vercel.app/
+
 
