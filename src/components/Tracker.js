@@ -18,7 +18,7 @@ const center = {
 export default function Tracker() {
   const { position, error } = useGeolocation();
   const { isLoaded } = useLoadScript({
-    googleMapsApiKey: process.env.REACT_APP_GOOGLE_MAPS_API_KEY, 
+    googleMapsApiKey: "AIzaSyDRHeewOqgupzkk8z2nKdmcO-3dEJvE1cU", 
   });
 
   return (
